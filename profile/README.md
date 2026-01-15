@@ -14,7 +14,7 @@
 
   <br>
 
-  <a href="mailto:contact@noctradev.com">
+  <a href="mailto:noctradev@proton.me">
     <img src="https://img.shields.io/badge/Contact-Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.noctradev.com">
