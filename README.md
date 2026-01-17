@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./noctradev_outline.svg" width="150" alt="NoctraDev Logo" />
+  <img src="https://raw.githubusercontent.com/NoctraDev/.github/main/noctradev_outline.svg" width="150" alt="NoctraDev Logo" />
 
   <h1>NoctraDev</h1>
   
